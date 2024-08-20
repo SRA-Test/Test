@@ -2,6 +2,7 @@ package org.example.ParserTesting;
 
 import java.util.Scanner;
 
+@Deprecated
 public class test {
 
     public static void main(String[] args) {
